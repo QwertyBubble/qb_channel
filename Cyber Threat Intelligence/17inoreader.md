@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Attribution & Clusterization
+title: Inoreader
 parent: Cyber Threat Intelligence
-nav_order: 14
+nav_order: 17
 ---
 # Inoreader
 

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Attribution & Clusterization
+title: Feedly Connector
 parent: Cyber Threat Intelligence
-nav_order: 14
+nav_order: 16
 ---
 # Feedly Connector
 

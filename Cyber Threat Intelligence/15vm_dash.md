@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Attribution & Clusterization
+title: Vulnerability Dashboard
 parent: Cyber Threat Intelligence
-nav_order: 14
+nav_order: 15
 ---
 # Vulnerability Dashboard
 
